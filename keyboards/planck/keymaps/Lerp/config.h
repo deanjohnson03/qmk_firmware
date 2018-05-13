@@ -4,7 +4,7 @@
 #include "config_common.h"
 
 #ifdef AUDIO_ENABLE
-    #define STARTUP_SONG SONG(IMPERIAL_MARCH)
+    #define STARTUP_SONG SONG(OVERWATCH_THEME)
 
     // #define STARTUP_SONG SONG(PLANCK_SOUND)
     // #define STARTUP_SONG SONG(NO_SOUND)
